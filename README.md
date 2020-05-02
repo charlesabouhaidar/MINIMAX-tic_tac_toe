@@ -2,7 +2,7 @@
 ## Make sure you have Python 3 installed on your computer, if not:
 
 ### For Mac make sure you have homebrew installed and then open terminal and type 
-  `brew install python`
+  `brew install python3`
   
   If you don't have Homebrew installed
   
