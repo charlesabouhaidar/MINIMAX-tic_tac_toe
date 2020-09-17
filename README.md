@@ -12,6 +12,8 @@
 ### For windows, download python installer from this link and go through the installer:
   [Python](https://www.python.org/downloads/windows/)
   
+### Make sure you have all the requirements installed by changing to this directory then running:
+  `pip3 install -r requirements.txt`
   
 ### Change directories into the folder where you downloaded this repo, then run the program with this command
   `python3 runner.py`
